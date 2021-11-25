@@ -1,13 +1,13 @@
 {
-  "name": "@deepakvk/json-pointer",
+  "name": "@axway/json-pointer",
   "description": "Some utilities for JSON pointers described by RFC 6901",
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {},
-  "homepage": "https://github.com/deepakvk/json-pointer",
+  "homepage": "https://github.com/Axway/json-pointer",
   "repository": {
     "type": "git",
-    "url": "git://github.com/deepakvk/json-pointer.git"
+    "url": "git://github.com/Axway/json-pointer.git"
   },
   "devDependencies": {},
   "scripts": {
