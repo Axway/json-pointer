@@ -1,7 +1,7 @@
 {
   "name": "@axway/json-pointer",
   "description": "Some utilities for JSON pointers described by RFC 6901",
-  "version": "1.1.0",
+  "version": "0.7.0-0",
   "license": "MIT",
   "dependencies": {},
   "homepage": "https://github.com/Axway/json-pointer",
