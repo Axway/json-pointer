@@ -35,7 +35,6 @@ function api (obj, pointer, value) {
     return wrapped;
 }
 
-
 /**
  * Lookup a json pointer in an object
  *
