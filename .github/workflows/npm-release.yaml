@@ -2,7 +2,7 @@ name: Release latest on npm
 
 on:
   workflow_dispatch:
-    inputs: {}
+    inputs:
 
 jobs:
   tag-and-publish:
